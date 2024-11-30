@@ -9,7 +9,7 @@ This script adds two numbers. It takes two arguments and outputs their sum.
 ## [calculate_sum.sh](calculate_sum.sh)
 This script adds two numbers. It takes two arguments and outputs their sum.
 
-![Console Output](consoleoutputlab8.png)
+![Console Output](consoleOutputlab8.png)
 
 
-![Console Output](consoleoutputlab8.png)
+
