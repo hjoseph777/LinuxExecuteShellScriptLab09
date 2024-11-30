@@ -10,3 +10,6 @@ This script adds two numbers. It takes two arguments and outputs their sum.
 This script adds two numbers. It takes two arguments and outputs their sum.
 
 ![Console Output](consoleoutputlab8.png)
+
+
+![Console Output](consoleoutputlab8.png)
